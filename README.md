@@ -1,12 +1,12 @@
 # Indian Census SQL Data Analysis
 
-This repository contains the code and documentation for Exploratory Data Analysis (EDA) of Indian Census data using SQL queries via mysql-connector module. The data is stored in a MySQL database named `indiancensus`, consisting of two tables: `data1` and `data2`.
+This repository contains the code and documentation for Exploratory Data Analysis (EDA) of Indian Census data using SQL queries in python via mysql-connector module. The data is stored in a MySQL database named `indiancensus`, consisting of two tables: data1 and data2.
 
 ## Dataset
 
 The dataset comprises two tables in the `indiancensus` database:
 
-### Table: `data1`
+### Table: data1
 
 - **District**: Name of the district.
 - **State**: State to which the district belongs.
@@ -14,7 +14,7 @@ The dataset comprises two tables in the `indiancensus` database:
 - **Sex_Ratio**: Sex ratio.
 - **Literacy**: Literacy rate.
 
-### Table: `data2`
+### Table: data2
 
 - **District**: Name of the district.
 - **State**: State to which the district belongs.
