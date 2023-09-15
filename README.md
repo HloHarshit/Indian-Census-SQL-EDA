@@ -1,10 +1,10 @@
 # Indian Census SQL Data Analysis
 
-This repository contains the code and documentation for Exploratory Data Analysis (EDA) of Indian Census data using SQL queries in python via mysql-connector module. The data is stored in a MySQL database named `indiancensus`, consisting of two tables: data1 and data2.
+This repository contains the code and documentation for Exploratory Data Analysis (EDA) of Indian Census data using SQL queries in python via mysql-connector module. The data is stored in a MySQL database named **indiancensus**, consisting of two tables: data1 and data2.
 
 ## Dataset
 
-The dataset comprises two tables in the `indiancensus` database:
+The dataset comprises two tables in the **indiancensus** database:
 
 ### Table: data1
 
@@ -26,6 +26,8 @@ The dataset comprises two tables in the `indiancensus` database:
 [IndianCensus.ipynb](IndianCensus.ipynb): Jupyter Notebook containing the Python code for the exploratory data analysis of the Indian Census data using SQL queries.
 
 ## Usage
+
+You can clone this repository to your local machine and run the Jupyter Notebook to perform the SQL-based EDA. Ensure you have a MySQL server set up with the indiancensus database containing the data1 and data2 tables.
 
 ```bash
 git clone https://github.com/HloHarshit/Indian-Census-SQL-EDA.git
