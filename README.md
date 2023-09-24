@@ -21,9 +21,12 @@ The dataset comprises two tables in the **indiancensus** database:
 - **Area_km2**: Area of the district in square kilometers.
 - **Population**: Population of the district.
 
-## EDA File
+## EDA Files
 
 [IndianCensus.ipynb](IndianCensus.ipynb): Jupyter Notebook containing the Python code for the exploratory data analysis of the Indian Census data using SQL queries.
+
+[IndianCensus solution (SQL code).sql](IndianCensus%20solution%20(SQL%20code).sql): MySQL script containing the queries for the exploratory data analysis of the Indian Census data.
+
 
 ## Usage
 
